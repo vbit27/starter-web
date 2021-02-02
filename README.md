@@ -4,4 +4,6 @@
 
 ## Purpose
 
-## How To Contribute
+here too 
+
+making some changes
